@@ -23,7 +23,7 @@ scp rhessys_20200626.sif UVA_ID@rivanna.hpc.virginia.edu:/home/UVA_ID
 - Select Menu (Interactive APPs - JupyterLab)
 - Select Option (Work Directory - HOME)
 
-6. You can find `rhessys_20200626.sif` singularity image in ‘/home/uvaID` folder of Rivanna
+6. You can find `rhessys_20200626.sif` singularity image in ‘/home/UVA_ID` folder of Rivanna
 
 7. Upload kernel.json file in this GitHub to ‘/home/uvaID` folder of Rivanna
 - https://github.com/DavidChoi76/RHESSys_Singularity_In_Rivanna/blob/master/kernel.json
