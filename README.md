@@ -6,7 +6,7 @@
 
 2. Create a Definition file to create a Singularity image
 - Use a RHESSys and pyRHESSys definition file in this GitHub
-- https://github.com/DavidChoi76/SUMMA_Singularity_In_Rivanna/blob/master/rhessys_20200626.def
+- https://github.com/DavidChoi76/RHESSys_Singularity_In_Rivanna/blob/master/rhessys_20200626.def
 
 3. Create the Singularity image
 ```python
