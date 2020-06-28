@@ -1,0 +1,13 @@
+{
+"argv":["singularity",
+        "exec",
+        "/home/UVA_ID/pyrhessys_20200626.sif",
+        "python",
+        "-m",
+        "ipykernel",
+        "-f",
+        "{connection_file}"
+        ],
+        "display_name":"pyrhessys",
+        "language":"python"
+}
