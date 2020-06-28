@@ -15,7 +15,7 @@ sudo singularity build rhessys_20200626.sif rhessys_20200626.def
 
 4. Upload Singularity image
 ```python
-scp rhessys_20200626.sif uvaID@rivanna.hpc.Virginia.edu:/home/uvaID
+scp rhessys_20200626.sif UVA_ID@rivanna.hpc.virginia.edu:/home/UVA_ID
 ```
 
 5. Log in Rivanna (UVA HPC)
@@ -31,7 +31,7 @@ scp rhessys_20200626.sif uvaID@rivanna.hpc.Virginia.edu:/home/uvaID
 8. Create pyrhessys Jupyter Kernel 
 ```python
 mkdir -p ~/.local/share/jupyter/kernels/pyrhessys
-Mv kernel.json ~/.local/share/jupyter/kernels/pyrhessys
+mv kernel.json ~/.local/share/jupyter/kernels/pyrhessys
 ```
 
 9. Start JupyterLab and select pyrhessys Kernel
